@@ -28,3 +28,9 @@ Click on "file" (top right) -> "add Instance" -> "Import from zip".<br>
 
 ### Curseforge
 Open Minecraft tab from the main menu, then click on "Create custom profile" (top right) ->  click on "Import" (upper side of the menu) -> select the .zip file<br>
+
+## Joining the server
+Open Minecraft<br>
+Click Multiplayer<br>
+Add server with server IP: polarpop.secure.pebble.host<br>
+Join and enjoy!<br>
