@@ -19,8 +19,8 @@ apt install openjdk-17-jdk openjdk-17-jre
 
 ## Install the modpack
 
-## Prism launcher
+### Prism launcher
 Click on "file" (top right) -> "add Instance" -> "Import from zip".<br>
 
-## Curseforge
+### Curseforge
 Open Minecraft tab from the main menu, then click on "Create custom profile" (top right) ->  click on "Import" (upper side of the menu) -> select the .zip file<br>
