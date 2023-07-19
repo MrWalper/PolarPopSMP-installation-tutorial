@@ -1,6 +1,10 @@
 # PolarPopSMP-installation-wiki
 This is wiki on how to install the PolarPopSMP<br>
 
+## Download the modpack
+You can download the modpack from [here](https://legacy.curseforge.com/minecraft/modpacks/polar-pop-mc/files)<br>
+There are 3 versions: No shaders, Full pack and no visuals. They are what their name suggest. The first one has no shaders, the second one has all the stuff including the visuals and the last one does not contain any visual mods (basicly the stuff you do not need)<br>
+
 ## Install launcher for modding
 
 ### Windows
