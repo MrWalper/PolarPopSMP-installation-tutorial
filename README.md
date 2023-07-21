@@ -16,9 +16,9 @@ YT tutorial for Prism launcher (credits to Spxtre) [here](https://www.youtube.co
 Download Prism launcher from [here](https://prismlauncher.org/download/) (download the Installer.exe)<br>
 Download Java from [here](https://adoptium.net/en-GB/)<br>
 YT tutorial for Windows (credits to Spxtre) [here](https://www.youtube.com/watch?v=jMi3UA62KPw&t=63s)<br>
-If you are going to follow the tutorial above on linux instead of downloading the installer, I would reccomend installing it using apt command:<br>
+If you are going to follow the tutorial above on linux instead of downloading the installer, if you are on debian based flavours, I would reccomend installing it using apt command:<br>
 ```
-apt install openjdk-17-jdk openjdk-17-jre
+sudo apt install openjdk-17-jdk openjdk-17-jre
 ```
 
 ## Install the modpack
